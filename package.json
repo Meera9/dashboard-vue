@@ -1,0 +1,62 @@
+{
+  "name": "dashboard",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build",
+    "lint": "vue-cli-service lint"
+  },
+  "dependencies": {
+    "@fortawesome/fontawesome-svg-core": "^1.2.35",
+    "@fortawesome/free-brands-svg-icons": "^5.15.3",
+    "@fortawesome/free-regular-svg-icons": "^5.15.3",
+    "@fortawesome/free-solid-svg-icons": "^5.15.3",
+    "@fortawesome/vue-fontawesome": "^2.0.2",
+    "@grapecity/wijmo.vue2.chart": "^5.20211.794",
+    "@grapecity/wijmo.vue2.chart.finance": "^5.20211.794",
+    "@grapecity/wijmo.vue2.core": "^5.20211.794",
+    "apexcharts": "^3.27.1",
+    "axios": "^0.21.1",
+    "bootstrap": "^5.0.2",
+    "bootstrap-vue": "^2.21.2",
+    "core-js": "^3.6.5",
+    "i": "^0.3.6",
+    "lodash": "^4.17.21",
+    "moment": "^2.29.1",
+    "npm": "^7.19.0",
+    "vue": "^2.6.14",
+    "vue-apexcharts": "^1.6.1"
+  },
+  "devDependencies": {
+    "@vue/cli-plugin-babel": "~4.5.0",
+    "@vue/cli-plugin-eslint": "~4.5.0",
+    "@vue/cli-service": "~4.5.0",
+    "babel-eslint": "^10.1.0",
+    "eslint": "^6.7.2",
+    "eslint-plugin-vue": "^6.2.2",
+    "node-sass": "^6.0.1",
+    "sass-loader": "^7.0.2",
+    "vue-template-compiler": "^2.6.11",
+    "webpack": "^4.46.0"
+  },
+  "eslintConfig": {
+    "root": true,
+    "env": {
+      "node": true
+    },
+    "extends": [
+      "plugin:vue/essential",
+      "eslint:recommended"
+    ],
+    "parserOptions": {
+      "parser": "babel-eslint"
+    },
+    "rules": {}
+  },
+  "browserslist": [
+    "> 1%",
+    "last 2 versions",
+    "not dead"
+  ]
+}
