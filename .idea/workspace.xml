@@ -2,20 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5b38433c-3a90-47ec-86d1-6642121f1e22" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/layouts/content.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/layouts/dashboard.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/layouts/sidebar.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/layouts/topbar.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/views/graph.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/views/headerBox.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/views/table.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vue.config.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/assets/logo.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/logo.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/layouts/sidebar.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/layouts/sidebar.vue" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -34,7 +22,7 @@
   <component name="ProjectId" id="1uQqhd3OidgtpIamNtfXSyybCPd" />
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../gautam/elp" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.standard" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
@@ -81,6 +69,7 @@
       <workItem from="1624696195099" duration="64000" />
       <workItem from="1624696282517" duration="31601000" />
       <workItem from="1624801437194" duration="16240000" />
+      <workItem from="1624818277597" duration="3000" />
     </task>
     <servers />
   </component>
@@ -106,7 +95,6 @@
         <line-breakpoint enabled="true" type="javascript">
           <url>file://$PROJECT_DIR$/src/views/graph.vue</url>
           <line>91</line>
-          <properties lambdaOrdinal="-1" />
           <option name="timeStamp" value="1" />
         </line-breakpoint>
       </breakpoints>

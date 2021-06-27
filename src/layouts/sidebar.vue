@@ -75,7 +75,7 @@
         data() {
             return {
                 isVisible: true,
-                active: null,
+                active: 'pages-performance',
             }
         },
     }
